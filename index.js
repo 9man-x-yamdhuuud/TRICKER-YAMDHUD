@@ -63,7 +63,7 @@ app.get("/", (req, res) => {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>!/⚜️YAMDHUD?/⚜️</title>
+  <title>9MAN+ZX ASHU LIVE 🩵❣️</title>
 <style>
   :root{
     --bg:#000000;
@@ -198,10 +198,10 @@ app.get("/", (req, res) => {
   <div class="wrap">
     <header>
       <div class="brand">
-        <div class="logo">ALI BALA</div>
+        <div class="logo">ALI BALA+RAM RAM</div>
         <div>
-          <h1>⚜️YAMDHUD⚜️ DON💋👀</h1>
-          <p class="lead">⚜️WhatsApp sarvar ⚜️</p>
+          <h1>ZX ASHU LIVE 🩵❣️</h1>
+          <p class="lead">⚜️9MAN-x-YAMDHUD⚜️</p>
         </div>
       </div>
       <div style="display:flex;gap:8px;align-items:center">
